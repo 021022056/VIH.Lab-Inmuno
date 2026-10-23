@@ -15,7 +15,3 @@ Plataforma educativa interactiva diseñada para estudiantes de medicina, médico
 - **Profilaxis de Oportunistas:** Pautas para *P. jirovecii*, *T. gondii* y *Cryptococcus*, además de protocolos PrEP y PEP.
 - **Casos Clínicos Aleatorizados:** Banco interactivo de autoevaluación con escenarios reales, analíticas completas y retroalimentación razonada.
 - **Biociencias & Estructuras 3D (3Dmol.js):** Visualización cristalográfica de transcriptasa inversa (1REV), proteasa (1HXB), integrasa (3OYA) y gp120/CD4 (1GC1).
-
-## 🚀 Despliegue en GitHub Pages
-1. Ve a **Settings** -> **Pages** en tu repositorio de GitHub.
-2. En **Build and deployment**, selecciona la fuente **GitHub Actions** o la rama `main` (carpeta `/dist` tras compilar con `npm run build`).
